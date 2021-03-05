@@ -1,4 +1,4 @@
-<h1 align="center">Last Version (2.0.4)</h1>
+<h1 align="center">Last Version (2.2.4)</h1>
 <h2 align="center">
 
 </h2>
@@ -25,7 +25,7 @@
 
 # System Requirements
 
-Processor Intel:registered: or AMD processor with 64-bit support*; 2 GHz or faster processor
+Processor Intel® or AMD processor with 64-bit support*; 2 GHz or faster processor
 
 Operating system Microsoft Windows 7 with Service Pack 1 (64-bit)*, Windows 10** (Version 1709 or later)
 
